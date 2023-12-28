@@ -1,0 +1,6 @@
+---
+config:
+  mongoURI: mongodb://localhost:27017
+  database: testing
+  maxWorkers: 5
+  sleepDuration: 60
